@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">I am a frontend developer with a strong passion for creating user-friendly and visually appealing web applications.I have experience in HTML, CSS, and JavaScript, and I am proficient in modern frontend frameworks like React.My focus is on turning design mockups into fully functional and responsive websites, ensuring clean code and optimal performance.</h3>
+<h3 align="center">
+  "I'm a frontend developer deeply passionate about crafting user-friendly and visually captivating web applications. With expertise in HTML, CSS, and JavaScript, coupled with proficiency in contemporary frontend frameworks such as React, I specialize in transforming design mockups into fully functional and responsive websites. My commitment lies in delivering clean code and ensuring optimal performance throughout the development process."
+</h3>
 <img 
   width: "400px"
   src="https://camo.githubusercontent.com/182ebdc0e06f1d7d76a3ec044a3f77844b7b305c2056cc746274cba9e7c83386/68747470733a2f2f697266616e74617269712e636f6d2f696d616765732f62616e6e65722e676966"/>
